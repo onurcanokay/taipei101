@@ -9,7 +9,7 @@ In this simulation, the building (Taipei101) and the TMD is modelled as two spri
 An animation of the simulation results is accessible through the link below, <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3ZoQzev_tI4
 " target="_blank"><img src="http://img.youtube.com/vi/3ZoQzev_tI4/0.jpg" 
-alt="YOUTUBE - 1D Simulation of Tuned Mass Damper (TMD) in Taipei101 Skyscraper" width="240" height="180" border="10" /></a>
+alt="YOUTUBE - 1D Simulation of Tuned Mass Damper (TMD) in Taipei101 Skyscraper" width="720" height="540" border="20" /></a>
 
 ## References
 \[1\] J. J. Connor, “Chapter 4. Tuned mass damper systems,” in *Introduction to Structural Motion Control*, 1st ed., Prentice Hall, 2002. <br>
