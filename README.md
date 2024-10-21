@@ -1,10 +1,15 @@
-# Taipei101 Oscilation Simulation
+# Taipei101 Oscillation Simulation
 
-This repository contains a script for a single degree of freedom oscilation simulation of Taipei101 and Tuned Mass Damper (TMD) in MATLAB and Simulink.
+This repository contains a script for a single degree of freedom oscillation simulation of Taipei101 and Tuned Mass Damper (TMD) in MATLAB and Simulink.
 
-This simulation demonstrates the crucial role of tuned mass dampers (TMDs) in tall buildings. By dissapating the mechanical energy of an oscilating building, TMDs reduce the oscilations in a building significantly.
+This simulation demonstrates the crucial role of tuned mass dampers (TMDs) in tall buildings. By dissipating the mechanical energy of an oscillating building, TMDs reduce the oscillations in a building significantly.
 
-In this simulation, the building (Taipei101) and the TMD is modelled as two spring-mass-damper systems having only one degree of freedom. The Taipei101, due to its geographical location, is subjected to strong windloads, which is modelled as a sinusoidal forcing function in this simulation. The sinusoidal forcing function has the natural frequency of the Taipei101 model.
+In this simulation, the building (Taipei101) and the TMD is modelled as two spring-mass-damper systems having only one degree of freedom. The Taipei101, due to its geographical location, is subjected to strong wind loads, which is modelled as a sinusoidal forcing function in this simulation. The sinusoidal forcing function has the natural frequency of the Taipei101 model.
+
+An animation of the simulation results is accessible through the link below,
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3ZoQzev_tI4
+" target="_blank"><img src="http://img.youtube.com/vi/3ZoQzev_tI4/0.jpg" 
+alt="YOUTUBE - 1D Simulation of Tuned Mass Damper (TMD) in Taipei101 Skyscraper" width="240" height="180" border="10" /></a>
 
 ## References
 \[1\] J. J. Connor, “Chapter 4. Tuned mass damper systems,” in *Introduction to Structural Motion Control*, 1st ed., Prentice Hall, 2002. <br>
