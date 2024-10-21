@@ -6,7 +6,7 @@ This simulation demonstrates the crucial role of tuned mass dampers (TMDs) in ta
 
 In this simulation, the building (Taipei101) and the TMD is modelled as two spring-mass-damper systems having only one degree of freedom. The Taipei101, due to its geographical location, is subjected to strong wind loads, which is modelled as a sinusoidal forcing function in this simulation. The sinusoidal forcing function has the natural frequency of the Taipei101 model.
 
-An animation of the simulation results is accessible through the link below,
+An animation of the simulation results is accessible through the link below, <br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3ZoQzev_tI4
 " target="_blank"><img src="http://img.youtube.com/vi/3ZoQzev_tI4/0.jpg" 
 alt="YOUTUBE - 1D Simulation of Tuned Mass Damper (TMD) in Taipei101 Skyscraper" width="240" height="180" border="10" /></a>
